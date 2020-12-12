@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vegan-dev-235959-authRole",
+      "UnauthRoleArn": "arn:aws:iam::338164761121:role/amplify-vegan-dev-235959-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::338164761121:role/amplify-vegan-dev-235959-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-vegan-dev-235959-deployment",
+      "UnauthRoleName": "amplify-vegan-dev-235959-unauthRole",
+      "StackName": "amplify-vegan-dev-235959",
+      "StackId": "arn:aws:cloudformation:eu-west-2:338164761121:stack/amplify-vegan-dev-235959/e4efa060-3bde-11eb-a5c1-0200fa874bc6",
+      "AmplifyAppId": "db36qmcabpu9"
+    },
+    "categories": {
+      "auth": {
+        "veganac192c40": {}
+      }
+    }
+  }
+}
